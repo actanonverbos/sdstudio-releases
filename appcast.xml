@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>SD Studio</title>
+    <description>Most recent updates to SD Studio</description>
+    <language>en</language>
+    <items>
+<item>
+  <title>Version 1.0.0</title>
+  <sparkle:releaseNotesLink>https://github.com/actanonverbos/SD_Studio_Xcode/releases/tag/v1.0.0</sparkle:releaseNotesLink>
+  <pubDate>Mon, 20 Oct 2025 18:59:37 +0000</pubDate>
+  <enclosure
+    url="https://github.com/actanonverbos/sdstudio-releases/releases/download/v1.0.0/SD-Studio-1.0.0.dmg"
+    sparkle:version="1.0.0"
+    sparkle:shortVersionString="1.0.0"
+    length="5625171"
+    type="application/octet-stream"
+    sparkle:edSignature="sparkle:edSignature="GazgWXVuYVaSFP9qVzdkElI/DVCEwice91Mzv31UjFk/crUeajqkl7aB/muOMMrvcqZSOU4onES+z06+bHIbAg==" length="5625171""
+  />
+</item>
+    </items>
+  </channel>
+</rss>
