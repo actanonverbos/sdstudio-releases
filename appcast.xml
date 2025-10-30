@@ -6,6 +6,19 @@
     <language>en</language>
     <items>
 <item>
+  <title>Version 1.0.1</title>
+  <sparkle:releaseNotesLink>https://github.com/actanonverbos/SD_Studio_Xcode/releases/tag/v1.0.1</sparkle:releaseNotesLink>
+  <pubDate>Thu, 30 Oct 2025 19:00:41 +0000</pubDate>
+  <enclosure
+    url="https://github.com/actanonverbos/sdstudio-releases/releases/download/v1.0.1/SD-Studio-1.0.1.dmg"
+    sparkle:version="1.0.1"
+    sparkle:shortVersionString="1.0.1"
+    length="5622079"
+    type="application/octet-stream"
+    sparkle:edSignature="sparkle:edSignature="XYYOlj2DoYhGWlRc/TLbIDHtdR2sh1gjEx/G7gzra82AF0xyKqslv7OMcIpquB3Y8GrS9B0U3NYOcT1mAVntBg==" length="5622079""
+  />
+</item>
+<item>
   <title>Version 1.0.0</title>
   <sparkle:releaseNotesLink>https://github.com/actanonverbos/SD_Studio_Xcode/releases/tag/v1.0.0</sparkle:releaseNotesLink>
   <pubDate>Mon, 20 Oct 2025 18:59:37 +0000</pubDate>
